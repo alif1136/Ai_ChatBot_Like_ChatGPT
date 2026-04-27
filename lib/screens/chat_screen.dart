@@ -102,7 +102,7 @@ class _ChatScreenState extends State<ChatScreen> {
             ),
             const SizedBox(height: 20),
             const Text(
-              "Hi, I'm Durjoy",
+              "Hi, I'm ALIF",
               style: TextStyle(
                 fontSize: 22,
                 fontWeight: FontWeight.w700,
@@ -181,7 +181,7 @@ class _ChatScreenState extends State<ChatScreen> {
               mainAxisSize: MainAxisSize.min,
               children: const <Widget>[
                 Text(
-                  'Durjoy',
+                  'ALIF',
                   style: TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.w700,
